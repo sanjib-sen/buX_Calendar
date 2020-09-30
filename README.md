@@ -15,7 +15,7 @@ A simple GUI Based Deadline Scrapper tool for BRAC University Students.
 
 ## Installation
 
-1. Download and Extract [**bux_Calendar.zip**](https://github.com/sanjib-sen/buX_Calendar/releases/download/v0.02/buX_Calendar.zip)
+1. Download and Extract [**bux_Calendar v0.03 (Windows).zip**](https://github.com/sanjib-sen/buX_Calendar/releases/download/v0.02/bux_Calendar.v0.03.Windows.zip)
 2. Open **"bux_Calendar.exe"** and you are good to go.
 3. **(Optional but Recommended)** : You can always use the software from Desktop by Creating a Shortcut. (Right Click > Create Shortcut)
 
